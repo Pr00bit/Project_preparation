@@ -16,7 +16,7 @@ print(' ')
 
 
 # Creation of repo on Github
-g = Github(' ')
+g = Github(' ')    #Here to put token from Github, otherwsie there will be error after creating repo on Github
 
 user = g.get_user()
 repo = user.create_repo(project_name)
