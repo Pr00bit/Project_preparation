@@ -1,4 +1,4 @@
-HINT: Please swotch branch to Master on top-left side to see code
+HINT: Please switch branch to Master on top-left side to see code
 
 1. How to run.
 
