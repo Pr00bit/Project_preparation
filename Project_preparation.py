@@ -1,3 +1,5 @@
+# prepared by Marcin Idzik (Pr0soft)
+
 import os
 from github import Github
 
